@@ -1,0 +1,31 @@
+body{font-family:cursive,monospace;
+    color:white;
+    font-size: 17px;
+background-image: url(blackbackg.jpg);
+    background-size:cover;
+    width: 50%;
+    margin:auto;
+
+}
+img{
+    width:50%;
+    border: 5px dotted white;
+    border-radius: 10%;
+    display:block;
+    margin:auto;
+    
+}
+h1{
+    border-bottom: 5px solid white;
+    text-align: center;
+    background-color: black;
+    
+}
+
+#paragraf1
+{text-align: center;
+}
+
+.zeynep
+{color: blue;
+}
